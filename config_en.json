@@ -1,0 +1,300 @@
+{
+  "HorizonLayout": [
+    {
+      "layout": "logo",
+      "showMenu": true,
+      "showSearch": true,
+      "showLogo": true
+    },
+    {
+      "layout": "bannerImage",
+      "isSlider": true,
+      "autoPlay": true,
+      "showNumber": false,
+      "design": "default",
+      "showBackGround": true,
+      "height": 0.2,
+      "radius": 15.0,
+      "items": [
+        {
+          "category": "gid://shopify/Collection/407413981411",
+          "title": {"text": "NEW ARRIVALS", "color": "#ffffff"},
+          "cateName": "New Arrivals",
+          "image": "https://cdn.shopify.com/s/files/1/0404/5199/7853/products/T016-ABBEY-P468-SAVANNAH-WB-2-scaled_ab0f0337-bb49-4a89-b56d-bc0a0d6c634c_1024x1024@2x.jpg",
+          "padding": 15.0
+        },
+        {
+          "category": "gid://shopify/Collection/276946124957",
+          "title": {"text": "NAYA", "color": "#ffffff"},
+          "cateName": "Naya",
+          "image": "https://blogger.googleusercontent.com/img/a/AVvXsEhujlJfDED6Gv3wtovTu49YOHLAxqErfPz0uoZoXKU5Vwf7PmAmouZQnoSkg5PhdrV3k1EWjidZf7ZYb8tqDmpDrqf3dPahdbi0DxQVIt8Kr24m4ltDmi3SqLL2fERYiuV1aGLF2NsiqRw2jmyLKSB_cVe0PQgjVsQM2kfJxN3eiUi7LgZ8f68EG3vj",
+          "padding": 15.0
+        },
+        {
+          "category": "gid://shopify/Collection/412548497635",
+          "title": {"text": "CECIL", "color": "#ffffff"},
+          "cateName": "Cecil",
+          "image": "https://blogger.googleusercontent.com/img/a/AVvXsEgAhbD9vftHGZeW3zthvqn8WQIgahCrc-edTkoFPrELrXaLQhlfyxr6T3IHhMBjQa5JnQU_DHkq0XXGpkBzyonrCmwUuZQ0xxkKZcCR0Dhj1RLbPz1JDpLc7dWBXbfWjaIdNr1Zy6dhQvURmiZC6ogbcL2GHqKs_vgAzjLqos-h6NKnozcbXnW4OyW_",
+          "padding": 15.0
+        }
+      ]
+    },
+    {
+      "name": "Recent View",
+      "layout": "recentView"
+    },
+    {
+      "name": "New Arrivals",
+      "image": "",
+      "layout": "twoColumn",
+      "category": "gid://shopify/Collection/407413981411",
+      "isSnapping": true
+    },
+    {
+      "name": "Street One",
+      "image": "",
+      "layout": "staggered",
+      "category": "gid://shopify/Collection/412548464867",
+      "isSnapping": true
+    },
+    {
+      "name": "Cecil",
+      "layout": "threeColumn",
+      "limit": 20,
+      "category": "gid://shopify/Collection/412548497635"
+    },
+    {
+      "name": "Naya",
+      "image": "",
+      "layout": "twoColumn",
+      "category": "gid://shopify/Collection/276946124957",
+      "isSnapping": true
+    },
+    {
+      "layout": "socials",
+      "facebook": "https://www.facebook.com/DBigginsfashion",
+      "instagram": "https://www.instagram.com/dbigginsfashion/"
+    }
+  ],
+  "Setting": {
+    "MainColor": "#d72a87",
+    "ProductListLayout": "list",
+    "StickyHeader": true
+  },
+  "TabBar": [
+    {
+      "layout": "home",
+      "icon": "home",
+      "pos": 100,
+      "fontFamily": "CupertinoIcons",
+      "key": "p1q235ba14"
+    },
+    {
+      "pos": 200,
+      "layout": "category",
+      "icon": "rectangle_grid_1x2",
+      "fontFamily": "CupertinoIcons",
+      "categoryLayout": "card",
+      "key": "hwu0rkrizt",
+      "remapCategories": [
+        {
+          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE3MDQwOTI2MzIzOQ==",
+          "name": "Features",
+          "image": "https://cdn.shopify.com/s/files/1/0331/5230/3239/collections/fashion-PN7FSF5_350x500.jpg?v=1581920391"
+        },
+        {
+          "parent": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE3MDQwOTI2MzIzOQ==",
+          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE3MDQwOTE2NDkzNQ==",
+          "name": "Bags"
+        },
+        {
+          "parent": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE3MDQwOTI2MzIzOQ==",
+          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE3MDQwOTQyNzA3OQ==",
+          "name": "Clothing"
+        },
+        {
+          "parent": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE3MDQwOTI2MzIzOQ==",
+          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE3MDQwODk2ODMyNw==",
+          "name": "Shoes"
+        },
+        {
+          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE3MDQwOTUyNTM4Mw==",
+          "name": "Women"
+        },
+        {
+          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE3MDQwOTYyMzY4Nw==",
+          "name": "Man"
+        }
+      ]
+    },
+    {
+      "key": "2reihs4qzc",
+      "icon": "search",
+      "layout": "search",
+      "fontFamily": "CupertinoIcons",
+      "pos": 300,
+      "size": 24
+    },
+    {
+      "pos": 400,
+      "icon": "bag",
+      "layout": "cart",
+      "categoryLayout": "cart",
+      "key": "a2xts0oou6",
+      "fontFamily": "CupertinoIcons"
+    },
+    {
+      "layout": "profile",
+      "fontFamily": "CupertinoIcons",
+      "pos": 500,
+      "key": "69jw5yx12d",
+      "icon": "person"
+    }
+  ],
+  "searchSuggestion": [
+    "Here's some popular searches...",
+    "Jackets",
+    "Coats",
+    "Trousers",
+    "Footwear",
+    "Sweaters",
+    "Jumpers",
+    "Accessories"
+  ],
+  "OnBoarding": {
+    "data": [
+      {
+        "title": "Welcome to D Biggins",
+        "image": "assets/images/fogg-delivery-1.png",
+        "desc": "Fluxstore is on the way to serve you. ",
+        "background": "#FFF3F2"
+      },
+      {
+        "title": "Connect Surrounding World",
+        "image": "assets/images/fogg-uploading-1.png",
+        "desc": "See all things happening around you just by a click in your phone. Fast, convenient and clean.",
+        "background": "#F2FFFC"
+      },
+      {
+        "title": "Let's Get Started",
+        "image": "fogg-order-completed.png",
+        "desc": "Waiting no more, let's see what we get!",
+        "background": "#F9F2FF"
+      }
+    ]
+  },
+  "categoriesDropDown": {
+    "items": [
+      {
+        "title": "Shop By Type",
+        "individualCategories": [
+          {
+            "category": "gid://shopify/Collection/263838564509",
+            "cateName": "Dresses"
+          },
+          {
+            "category": "gid://shopify/Collection/263838630045",
+            "cateName": "Trousers"
+          },
+          {
+            "category": "gid://shopify/Collection/263838498973",
+            "cateName": "Jackets & Coats"
+          },
+          {
+            "category": "gid://shopify/Collection/263838531741",
+            "cateName": "Tops"
+          },
+          {
+            "category": "gid://shopify/Collection/264039694493",
+            "cateName": "Sweaters/Jumpers"
+          },
+          {
+            "category": "gid://shopify/Collection/264040415389",
+            "cateName": "Accessories"
+          },
+          {
+            "category": "gid://shopify/Collection/263838662813",
+            "cateName": "Footwear"
+          }
+        ]
+      },
+      {
+        "title": "Shop By Brand",
+        "individualCategories": [
+          {
+            "category": "gid://shopify/Collection/412548464867",
+            "cateName": "Street One"
+          },
+          {
+            "category": "gid://shopify/Collection/412548497635",
+            "cateName": "Cecil"
+          },
+          {
+            "category": "gid://shopify/Collection/276946124957",
+            "cateName": "Naya"
+          },
+          {
+            "category": "gid://shopify/Collection/412531720419",
+            "cateName": "Robell"
+          },
+          {
+            "category": "gid://shopify/Collection/412548530403",
+            "cateName": "Kate And Pippa"
+          }
+        ]
+      }
+    ]
+  },
+  "colorDots":  {
+    "items": [
+      {"string": "Blue", "hex": "4169e1"},
+      {"string": "Black", "hex": "000000"},
+      {"string": "Cream", "hex": "FFFDD0"},
+      {"string": "Green", "hex": "6D9900"},
+      {"string": "Navy", "hex": "000080"},
+      {"string": "Peach", "hex": "FFE5B4"},
+      {"string": "Orange", "hex": "FFA500"},
+      {"string": "Pink", "hex": "F62F5C"},
+      {"string": "Tan", "hex": "D2B48C"},
+      {"string": "White", "hex": "FFFFFF"},
+      {"string": "Putty", "hex": "CDAE70"},
+      {"string": "Charcoal", "hex": "36454F"},
+      {"string": "Mint Green", "hex": "3EB489"},
+      {"string": "Grey", "hex": "808080"},
+      {"string": "Khaki", "hex": "414842"},
+      {"string": "Stone", "hex": "888c8d"},
+      {"string": "Denim", "hex": "6F8FAF"},
+      {"string": "Coral", "hex": "FF7F50"},
+      {"string": "Silver", "hex": "808080"},
+      {"string": "Beige", "hex": "F5F5DC"},
+      {"string": "Blush", "hex": "FE828C"},
+      {"string": "Cerise Pink", "hex": "DE3163"},
+      {"string": "Gold", "hex": "FFD700"},
+      {"string": "Teal", "hex": "008080"},
+      {"string": "Lime", "hex": "32CD32"},
+      {"string": "Lemon", "hex": "FAFA33"},
+      {"string": "Rose Gold", "hex": "b76e79"},
+      {"string": "Rose", "hex": "FF007F"},
+      {"string": "Dark Denim", "hex": "00334F"},
+      {"string": "Royal Blue", "hex": "4169e1"},
+      {"string": "Magenta", "hex": "FF00FF"},
+      {"string": "Raspberry", "hex": "e30b5d"},
+      {"string": "Fuchsia Pink", "hex": "FF00FF"},
+      {"string": "Lilac", "hex": "C8A2C8"},
+      {"string": "Camel", "hex": "C19A6B"},
+      {"string": "Latte", "hex": "bdab98"},
+      {"string": "Wine", "hex": "722F37"},
+      {"string": "Sand", "hex": "C2B280"},
+      {"string": "Hot Pink", "hex": "FF69B4"},
+      {"string": "Baby Pink", "hex": "F4C2C2"},
+      {"string": "Baby Blue", "hex": "89CFF0"},
+      {"string": "French Navy", "hex": "0072bb"},
+      {"string": "Red", "hex": "FF0000"},
+      {"string": "Sherry", "hex": "ce9195"},
+      {"string": "Champagne", "hex": "F7E7CE"},
+      {"string": "Brown", "hex": "964B00"},
+      {"string": "Pewter", "hex": "E9EAEC"},
+      {"string": "Cornflower Blue", "hex": "6495ED"}
+    ]
+  }
+}
