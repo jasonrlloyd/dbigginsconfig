@@ -7,6 +7,13 @@
       "showLogo": true
     },
     {
+      "layout": "announceBar",
+      "readFromFirestore": false,
+      "title": "Welcome from Github",
+      "backgroundColor": "7BB844",
+      "textColor": "ffffff"
+    },
+    {
       "layout": "bannerImage",
       "isSlider": true,
       "autoPlay": true,
