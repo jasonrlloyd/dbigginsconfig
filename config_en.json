@@ -13,6 +13,9 @@
       "textColor": "ffffff",
       "animate": false
     },
+     {
+      "layout": "categorySlider"
+    },
     {
       "layout": "bannerImage",
       "isSlider": true,
