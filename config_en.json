@@ -6,14 +6,15 @@
       "showSearch": true,
       "showLogo": true
     },
-    {
+   {
       "layout": "announceBar",
-      "title": "Welcome to DBiggins App!️",
-      "backgroundColor": "FF8CCA",
-      "textColor": "ffffff",
-      "animate": false
+      "title": "WELCOME TO THE D BIGGINS APP",
+      "backgroundColor": "DEFA52",
+      "textColor": "000000",
+      "animate": true,
+      "totalRepeatCount": 10
     },
-     {
+    {
       "layout": "categorySlider"
     },
     {
