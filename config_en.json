@@ -6,16 +6,15 @@
       "showSearch": true,
       "showLogo": true
     },
-   {
+    {
       "layout": "announceBar",
       "title": "WELCOME TO THE D BIGGINS APP",
       "backgroundColor": "DEFA52",
-      "textColor": "000000",
-      "animate": true,
-      "totalRepeatCount": 10
+      "textColor": "000000"
     },
     {
-      "layout": "categorySlider"
+      "layout": "categorySlider",
+      "backgroundColor": "d72a87"
     },
     {
       "layout": "bannerImage",
@@ -28,19 +27,19 @@
       "radius": 0.0,
       "items": [
         {
-          "category": "gid://shopify/Collection/264314552505",
-          "cateName": "New Arrivals",
-          "image": "https://blogger.googleusercontent.com/img/a/AVvXsEiOf4hdvzBg5dstqvJFT-iVMj23nMdGZz9S6b5zb1ZXaAWrYzduL7CcvqzBdpTYqjMy9eH37-DCZ7TIPr7IVdQMr3TM2X8QIbb4Pupf4k3mUhFTlpwNoaMtmYT8VcyvFQ9U5EwZrlHxxuKvcoUPqN_LYg1gvOy_EcXcL97PDxn_HxZ3jyxLpdO_mx88"
+          "category": "gid://shopify/Collection/602654245190",
+          "cateName": "Holiday Shop",
+          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQmfIHLCRHgKTT7l0_rFS_VucUlCU04e8XPak2O8Gy-cKXM_J51HOi_e9waQ3zBTBxvjeLz251NfjsSnlQ6FFxbEJ81CAkLYlioq8stGDNR6x1BAQxHKv13a8k4gX38I0e29q5H8xReZqUMbby0sllcod8L01hkEn_UXiFyrPYp6rU2JN7iuQuwlwt/s940/6.png"
         },
         {
-          "category": "gid://shopify/Collection/45082345523",
-          "cateName": "Cute Casuals",
-          "image": "https://blogger.googleusercontent.com/img/a/AVvXsEiqAb8iFwpKWL-9sKk5y3eskYZZC6bYRZULHY4U8KRRlvXOV-0xFKkqbKZWZdxW9TqSsJEqopB_TPQxF9e44pqBBk2Hrtm-v_rmKJUu8iqJKFDvZp2mhv3le-Tz0R296khoa0EEYqG0AL7PfX0K6zZiFNKa6zFtIUHnuMOoZUFFLxNs2XlY6llTV62u"
+          "category": "gid://shopify/Collection/602653917510",
+          "cateName": "Work Wear",
+          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5Zh-FKlauDBgilnCzJaK1mkKRGwY81cQoF5goEokulSQiZ1YMn3s_T3akp5IzKPy9YEtYTbAJ73AOKxFsuWPdQrm1ydG_rdZuP5fY6hPVBejGWw8i4bgRL5IVM_8atHpO6X6-KZzVSAEw1B2I_cXiQOyHWgn1TE3m66xdTJmlKMU_TSToW-G_r-G9/s940/5.png"
         },
         {
-          "category": "gid://shopify/Collection/45149454387",
-          "cateName": "Occasionwear",
-          "image": "https://blogger.googleusercontent.com/img/a/AVvXsEgkbqPa2SePno23V6fTol2u9RKxZ6rodanpNZWfGh-5jg4IuLHAJHkgTw4VqhcbF3n7sZfIAUdPBT57ZXAR-H2HuDbtlTPSnd6FxmQH0jFd89Jc37KPsktg7sCVDjTbRYIY4RBBqH4o-0yHvOFJ579vgDe92sl11rru1rlpGWLGnnCwvHTnhAA5hrqd"
+          "category": "gid://shopify/Collection/602654114118",
+          "cateName": "Special Occasion",
+          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvl5xD3pruzxx0yiYYCOS4Tn81cyvXxvpDXb45ImeEVd4WAIcPDc3THQsM4c9Nc1AoPc0u391RUMOjk8OTYz_ftjo4m94hq1zJwPy3PkyfZzfl3Lp4T-6De_gyrX3o1xAxUHtup2c9jVwFFclfcZgsFwL07GEHsIwFe81unxvoce5gC3lk-LKRfeqt/s940/4.png"
         }
       ]
     },
@@ -84,6 +83,10 @@
       "backgroundColor": "DEFA52",
       "textColor": "000000",
       "animate": true
+    },
+    {
+      "layout": "spacer",
+      "height": 20
     },
     {
       "layout": "bannerImage",
@@ -263,37 +266,244 @@
     ]
   },
   "categoriesDropDown": {
+    "colorAccent": "FF8CCA",
     "items": [
       {
         "title": "Shop By Type",
-        "individualCategories": [
+        "subCategories": [
           {
-            "category": "gid://shopify/Collection/263838564509",
-            "cateName": "Dresses"
+            "title": "Dresses",
+            "items": [
+              {
+                "category": "gid://shopify/Collection/602653786438",
+                "cateName": "Casual Dress"
+              },
+              {
+                "category": "gid://shopify/Collection/602149486918",
+                "cateName": "Wedding Guest"
+              },
+              {
+                "category": "gid://shopify/Collection/602653917510",
+                "cateName": "Work Wear"
+              },
+              {
+                "category": "gid://shopify/Collection/602654114118",
+                "cateName": "Special Occasion"
+              },
+              {
+                "category": "gid://shopify/Collection/602654245190",
+                "cateName": "Holiday Shop"
+              },
+              {
+                "category": "gid://shopify/Collection/602654277958",
+                "cateName": "Short Dress"
+              },
+              {
+                "category": "gid://shopify/Collection/602654802246",
+                "cateName": "Long Dress"
+              },
+              {
+                "category": "gid://shopify/Collection/602655260998",
+                "cateName": "Party Dress"
+              },
+              {
+                "category": "gid://shopify/Collection/602695205190",
+                "cateName": "Skirts"
+              },
+              {
+                "category": "gid://shopify/Collection/602661224774",
+                "cateName": "Jump Suit/Trouser Suit"
+              },
+              {
+                "category": "gid://shopify/Collection/602931003718",
+                "cateName": "Shop All Dresses"
+              }
+            ]
           },
           {
-            "category": "gid://shopify/Collection/263838630045",
-            "cateName": "Trousers"
+            "title": "Trousers",
+            "items": [
+              {
+                "category": "gid://shopify/Collection/602653917510",
+                "cateName": "Work Wear"
+              },
+              {
+                "category": "gid://shopify/Collection/602655588678",
+                "cateName": "Jeans"
+              },
+              {
+                "category": "gid://shopify/Collection/602656145734",
+                "cateName": "Crop Trouser"
+              },
+              {
+                "category": "gid://shopify/Collection/602656178502",
+                "cateName": "Casual Trouser"
+              },
+              {
+                "category": "gid://shopify/Collection/602656276806",
+                "cateName": "Leggings and P.U."
+              },
+              {
+                "category": "gid://shopify/Collection/602654245190",
+                "cateName": "Holiday Shop"
+              },
+              {
+                "category": "gid://shopify/Collection/602656768326",
+                "cateName": "Elastic Waist"
+              },
+              {
+                "category": "gid://shopify/Collection/602657030470",
+                "cateName": "Dressy Trouser"
+              },
+              {
+                "category": "gid://shopify/Collection/602657128774",
+                "cateName": "Naya Trouser"
+              },
+              {
+                "category": "gid://shopify/Collection/602931200326",
+                "cateName": "Shop All Trousers"
+              }
+            ]
           },
           {
-            "category": "gid://shopify/Collection/263838498973",
-            "cateName": "Jackets & Coats"
+            "title": "Tops",
+            "items": [
+              {
+                "category": "gid://shopify/Collection/602653917510",
+                "cateName": "Work Wear"
+              },
+              {
+                "category": "gid://shopify/Collection/602654245190",
+                "cateName": "Holiday Shop"
+              },
+              {
+                "category": "gid://shopify/Collection/602657292614",
+                "cateName": "Short Sleeve Top"
+              },
+              {
+                "category": "gid://shopify/Collection/602657358150",
+                "cateName": "Long Sleeve Top"
+              },
+              {
+                "category": "gid://shopify/Collection/602657390918",
+                "cateName": "T Shirts"
+              },
+              {
+                "category": "gid://shopify/Collection/602657489222",
+                "cateName": "Vest And Cami Tops"
+              },
+              {
+                "category": "gid://shopify/Collection/602657653062",
+                "cateName": "Zip Tops"
+              },
+              {
+                "category": "gid://shopify/Collection/602657685830",
+                "cateName": "Dressy Tops"
+              },
+              {
+                "category": "gid://shopify/Collection/602931265862",
+                "cateName": "Shop All Tops"
+              }
+            ]
           },
           {
-            "category": "gid://shopify/Collection/263838531741",
-            "cateName": "Tops"
+            "title": "Jackets & Coats",
+            "items": [
+              {
+                "category": "gid://shopify/Collection/602657751366",
+                "cateName": "Blazer"
+              },
+              {
+                "category": "gid://shopify/Collection/602657784134",
+                "cateName": "Denim Jacket"
+              },
+              {
+                "category": "gid://shopify/Collection/602657882438",
+                "cateName": "Gilet"
+              },
+              {
+                "category": "gid://shopify/Collection/602657915206",
+                "cateName": "Winter Jacket"
+              },
+              {
+                "category": "gid://shopify/Collection/602658013510",
+                "cateName": "Rain Jacket"
+              },
+              {
+                "category": "gid://shopify/Collection/602695401798",
+                "cateName": "Coats"
+              },
+              {
+                "category": "gid://shopify/Collection/602931331398",
+                "cateName": "Shop All Jackets & Coats"
+              }
+            ]
           },
           {
-            "category": "gid://shopify/Collection/264039694493",
-            "cateName": "Sweaters/Jumpers"
+            "title": "Jumpers & Sweaters",
+            "items": [
+              {
+                "category": "gid://shopify/Collection/602658701638",
+                "cateName": "Jumper"
+              },
+              {
+                "category": "gid://shopify/Collection/602658898246",
+                "cateName": "Cardigan"
+              },
+              {
+                "category": "gid://shopify/Collection/602659193158",
+                "cateName": "Sweatshirt & Hoody"
+              },
+              {
+                "category": "gid://shopify/Collection/602659389766",
+                "cateName": "Dressy Knits"
+              },
+              {
+                "category": "gid://shopify/Collection/602653917510",
+                "cateName": "Work Wear"
+              },
+              {
+                "category": "gid://shopify/Collection/602931429702",
+                "cateName": "Shop All Jumpers & Sweaters"
+              }
+            ]
           },
           {
-            "category": "gid://shopify/Collection/264040415389",
-            "cateName": "Accessories"
-          },
-          {
-            "category": "gid://shopify/Collection/263838662813",
-            "cateName": "Footwear"
+            "title": "Accessories",
+            "items": [
+              {
+                "category": "gid://shopify/Collection/602659750214",
+                "cateName": "Scarves"
+              },
+              {
+                "category": "gid://shopify/Collection/602659881286",
+                "cateName": "Bags"
+              },
+              {
+                "category": "gid://shopify/Collection/602660503878",
+                "cateName": "Fascinators & Hairbands"
+              },
+              {
+                "category": "gid://shopify/Collection/602660733254",
+                "cateName": "Hats & Gloves"
+              },
+              {
+                "category": "gid://shopify/Collection/602660897094",
+                "cateName": "Jewellery"
+              },
+              {
+                "category": "gid://shopify/Collection/602661060934",
+                "cateName": "Gift Boxes"
+              },
+              {
+                "category": "gid://shopify/Collection/602661978438",
+                "cateName": "Belts"
+              },
+              {
+                "category": "gid://shopify/Collection/602931462470",
+                "cateName": "Shop All Accessories"
+              }
+            ]
           }
         ]
       },
