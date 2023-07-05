@@ -8,7 +8,7 @@
     },
     {
       "layout": "announceBar",
-      "title": "10% OFF WITH CODE ENJOY10",
+      "title": "GET AN EXTRA 10% OFF WITH CODE ENJOY10",
       "backgroundColor": "DEFA52",
       "textColor": "000000"
     },
@@ -26,6 +26,11 @@
       "height": 0.4,
       "radius": 0.0,
       "items": [
+        {
+          "category": "gid://shopify/Collection/404563853539",
+          "cateName": "Summer Sale",
+          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirSrWjoOJwlMNLzqgkHik-RJ7WZ9E8gR7xZhuIltiQirBtP8pZbtzt_UbIPowC_D6yol0FVZLgCzzCOUxsXAe4pboquCt0tiTEeDrcemkMkaWV4gYOGZhPfqK30SDTl5fV2NOjhKVeQtsXPEzVqS5lKs2wCILTutfVC7a6UJyCbzuFSR9SFZ_kdq6QORs/s940/bannerImages.png"
+        },
         {
           "category": "gid://shopify/Collection/602654245190",
           "cateName": "Holiday Shop",
@@ -356,6 +361,10 @@
                 "cateName": "Coats"
               },
               {
+                "category": "gid://shopify/Collection/603091599686",
+                "cateName": "Jackets"
+              },
+              {
                 "category": "gid://shopify/Collection/602931331398",
                 "cateName": "Shop All Jackets & Coats"
               }
@@ -424,6 +433,39 @@
               {
                 "category": "gid://shopify/Collection/602931462470",
                 "cateName": "Shop All Accessories"
+              }
+            ]
+          },
+          {
+            "title": "SALE",
+            "items": [
+              {
+                "category": "gid://shopify/Collection/602931003718",
+                "cateName": "Dresses"
+              },
+              {
+                "category": "gid://shopify/Collection/602931200326",
+                "cateName": "Trousers"
+              },
+              {
+                "category": "gid://shopify/Collection/602931265862",
+                "cateName": "Tops"
+              },
+              {
+                "category": "gid://shopify/Collection/602931331398",
+                "cateName": "Jackets & Coats"
+              },
+              {
+                "category": "gid://shopify/Collection/602931429702",
+                "cateName": "Jumpers & Sweaters"
+              },
+              {
+                "category": "gid://shopify/Collection/602931462470",
+                "cateName": "Accessories"
+              },
+              {
+                "category": "gid://shopify/Collection/404563853539",
+                "cateName": "SHOP ALL SALE"
               }
             ]
           }
