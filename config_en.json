@@ -59,17 +59,6 @@
       ]
     },
     {
-      "name": "Recent View",
-      "layout": "recentView"
-    },
-    {
-      "name": "New Arrivals",
-      "image": "",
-      "layout": "twoColumn",
-      "category": "gid://shopify/Collection/407413981411",
-      "isSnapping": true
-    },
-    {
       "layout": "getTheLook",
       "title": "Featured This Week",
       "productUrls": [
@@ -79,6 +68,17 @@
         "https://dbiggins.ie/products/marinello-71257",
         "https://dbiggins.ie/products/enjoy-t-shirt-64075"
       ]
+    },
+    {
+      "name": "Recent View",
+      "layout": "recentView"
+    },
+    {
+      "name": "New Arrivals",
+      "image": "",
+      "layout": "twoColumn",
+      "category": "gid://shopify/Collection/407413981411",
+      "isSnapping": true
     },
     {
       "layout": "getTheLookVideoThumbnail",
