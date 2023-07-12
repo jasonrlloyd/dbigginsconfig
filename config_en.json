@@ -63,6 +63,13 @@
       "layout": "recentView"
     },
     {
+      "name": "New Arrivals",
+      "image": "",
+      "layout": "twoColumn",
+      "category": "gid://shopify/Collection/407413981411",
+      "isSnapping": true
+    },
+    {
       "layout": "getTheLookVideoThumbnail",
       "getTheLookTitle": "Our ❤️ Picks This Week",
       "video":
@@ -75,13 +82,6 @@
         "https://dbiggins.ie/products/fransa-20611704",
         "https://dbiggins.ie/products/street-one-319603"
       ]
-    },
-    {
-      "name": "New Arrivals",
-      "image": "",
-      "layout": "twoColumn",
-      "category": "gid://shopify/Collection/407413981411",
-      "isSnapping": true
     },
     {
       "name": "Street One",
