@@ -70,6 +70,17 @@
       "isSnapping": true
     },
     {
+      "layout": "getTheLook",
+      "title": "Featured This Week",
+      "productUrls": [
+        "https://dbiggins.ie/products/robell-51636-5499-67",
+        "https://dbiggins.ie/products/fransa-20611949",
+        "https://dbiggins.ie/products/fransden-671-235-1095",
+        "https://dbiggins.ie/products/marinello-71257",
+        "https://dbiggins.ie/products/enjoy-t-shirt-64075"
+      ]
+    },
+    {
       "layout": "getTheLookVideoThumbnail",
       "getTheLookTitle": "Our ❤️ Picks This Week",
       "video":
