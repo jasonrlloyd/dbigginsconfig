@@ -10,17 +10,7 @@
       "layout": "announceBar",
       "title": "GET 10% OFF WITH CODE ENJOY10",
       "backgroundColor": "DEFA52",
-      "textColor": "000000",
-      "getTheLookVideoLink": true,
-      "getTheLookTitle": "Our Top ❤️ Picks This Week",
-      "video":
-      "<iframe src=\"https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2FDBigginsfashion%2Fvideos%2F6789579754387100%2F&show_text=false&width=267&t=0\" width=\"267\" height=\"476\" style=\"border:none;overflow:hidden\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\" allow=\"autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share\" allowFullScreen=\"true\"></iframe>",
-      "productUrls": [
-        "https://dbiggins.ie/products/robell-51559-5499-613",
-        "https://dbiggins.ie/products/yew-tops-3842",
-        "https://dbiggins.ie/products/fransa-20611704",
-        "https://dbiggins.ie/products/street-one-319603"
-      ]
+      "textColor": "000000"
     },
     {
       "layout": "categorySlider",
@@ -68,20 +58,6 @@
       "layout": "twoColumn",
       "category": "gid://shopify/Collection/407413981411",
       "isSnapping": true
-    },
-    {
-      "layout": "getTheLookVideoThumbnail",
-      "getTheLookTitle": "Our ❤️ Picks This Week",
-      "video":
-      "<iframe src=\"https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2FDBigginsfashion%2Fvideos%2F6789579754387100%2F&show_text=false&width=267&t=0\" width=\"267\" height=\"476\" style=\"border:none;overflow:hidden\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\" allow=\"autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share\" allowFullScreen=\"true\"></iframe>",
-      "thumbnail":
-      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtSr7s833vSwnjsLdsjBBIisPz2adTb_ZpUbO0FDSJauQaUHvx3ZKbx1YISsY2tkae5TliLuUP1ouh6oD12Nd6hocN08m78qO2-5xmMZItg3x9gOJesoRv-Dfn77Wpygaws6phv0_tiOLXBkMJoofcur5geOSzLhRDwBqLx-6IhEULFg5rUA8LTx3KDUI/s1280/Video%20Thumbnail%20(3).png",
-      "productUrls": [
-        "https://dbiggins.ie/products/robell-51559-5499-613",
-        "https://dbiggins.ie/products/yew-tops-3842",
-        "https://dbiggins.ie/products/fransa-20611704",
-        "https://dbiggins.ie/products/street-one-319603"
-      ]
     },
     {
       "name": "Street One",
