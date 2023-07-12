@@ -60,6 +60,10 @@
       ]
     },
     {
+      "layout": "spacer",
+      "height": 20
+    },
+    {
       "layout": "getTheLookVideoThumbnail",
       "getTheLookTitle": "Our ❤️ Picks This Week",
       "video":
