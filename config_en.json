@@ -52,11 +52,12 @@
       "layout": "getTheLook",
       "title": "Featured This Week",
       "productUrls": [
-        "https://dbiggins.ie/products/robell-51636-5499-67",
-        "https://dbiggins.ie/products/fransa-20611949",
-        "https://dbiggins.ie/products/fransden-671-235-1095",
-        "https://dbiggins.ie/products/marinello-71257",
-        "https://dbiggins.ie/products/enjoy-t-shirt-64075"
+        "https://dbiggins.ie/products/robell-51576-5499",
+        "https://dbiggins.ie/products/robell-51568-pink",
+        "https://dbiggins.ie/products/yew-6686-pink",
+        "https://dbiggins.ie/products/sunday-6566",
+        "https://dbiggins.ie/products/street-one-343772",
+        "https://dbiggins.ie/products/ilona-zip-top-17"
       ]
     },
     {
@@ -65,20 +66,57 @@
     },
     {
       "layout": "getTheLookVideoThumbnail",
-      "getTheLookTitle": "Our ❤️ Picks This Week",
-      "video":
-      "<iframe src=\"https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2FDBigginsfashion%2Fvideos%2F683894133573444%2F&show_text=false&width=267&t=0\" width=\"267\" height=\"476\" style=\"border:none;overflow:hidden\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\" allow=\"autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share\" allowFullScreen=\"true\"></iframe>",
       "thumbnail":
       "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0GYGMRy3ApvoGWlNHkMwpVBdGaeXz4dqt2W7hHdEjR0_JFsK6jUgYX3YAGyccqO0lnP9Qh7NPPDxC6c91fiBz2yrsZcOsk6WP3YOLgtmhXPDuNCmS-ODRYLtyoixxmIsmq1RA1VqXrUCpyKYk7uugncm7M7vkqHPrum-DBpr4cWvz5lu9Itlap1ET0eA/s1280/Video%20Thumbnail%20(4).png",
-      "productUrls": [
-        "https://dbiggins.ie/products/robell-51636-5499-67",
-        "https://dbiggins.ie/products/fransa-20611949",
-        "https://dbiggins.ie/products/fransden-671-235-1095",
-        "https://dbiggins.ie/products/marinello-71257",
-        "https://dbiggins.ie/products/enjoy-t-shirt-64075"
+      "archives" : [
+        {
+          "date": "18/07/23",
+          "getTheLookTitle": "Our ❤️ Picks This Week",
+          "video":
+          "<iframe src=\"https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2FDBigginsfashion%2Fvideos%2F348821880805549%2F&show_text=false&width=267&t=0\" width=\"267\" height=\"476\" style=\"border:none;overflow:hidden\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\" allow=\"autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share\" allowFullScreen=\"true\"></iframe>",
+          "productUrls": [
+            "https://dbiggins.ie/products/robell-51576-5499",
+            "https://dbiggins.ie/products/robell-51568-pink",
+            "https://dbiggins.ie/products/yew-6686-pink",
+            "https://dbiggins.ie/products/sunday-6566",
+            "https://dbiggins.ie/products/street-one-343772",
+            "https://dbiggins.ie/products/ilona-zip-top-17"
+          ]
+        },
+        {
+          "date": "14/07/23",
+          "getTheLookTitle": "Our ❤️ Picks This Week",
+          "video":
+          "<iframe src=\"https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2FDBigginsfashion%2Fvideos%2F804284484668171%2F&show_text=false&width=267&t=0\" width=\"267\" height=\"476\" style=\"border:none;overflow:hidden\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\" allow=\"autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share\" allowFullScreen=\"true\"></iframe>",
+          "productUrls": [
+            "https://dbiggins.ie/products/sunday-6614",
+            "https://dbiggins.ie/products/fransa-20612367-ultramarine",
+            "https://dbiggins.ie/products/sunday-6737",
+            "https://dbiggins.ie/products/street-one-211810",
+            "https://dbiggins.ie/products/street-one-302308-stripe",
+            "https://dbiggins.ie/products/street-one-343859",
+            "https://dbiggins.ie/products/street-one-302275",
+            "https://dbiggins.ie/products/street-one-302307",
+            "https://dbiggins.ie/products/cecil-319619"
+          ]
+        },
+        {
+          "date": "13/07/23",
+          "getTheLookTitle": "Our ❤️ Picks This Week",
+          "video":
+          "<iframe src=\"https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2FDBigginsfashion%2Fvideos%2F836267277509730%2F&show_text=false&width=267&t=0\" width=\"267\" height=\"476\" style=\"border:none;overflow:hidden\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\" allow=\"autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share\" allowFullScreen=\"true\"></iframe>",
+          "productUrls": [
+            "https://dbiggins.ie/products/estel-midi-dress-068",
+            "https://dbiggins.ie/products/melani-dress-by-olimara",
+            "https://dbiggins.ie/products/kate-cooper-kc23120",
+            "https://dbiggins.ie/products/kate-and-pippa-amy-dress",
+            "https://dbiggins.ie/products/marella-smock-dress",
+            "https://dbiggins.ie/products/casting-ct23v5016-5c"
+          ]
+        }
       ]
     },
-     {
+    {
       "name": "Recent View",
       "layout": "recentView"
     },
