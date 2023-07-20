@@ -574,15 +574,15 @@
     "thumbnail":
     "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0GYGMRy3ApvoGWlNHkMwpVBdGaeXz4dqt2W7hHdEjR0_JFsK6jUgYX3YAGyccqO0lnP9Qh7NPPDxC6c91fiBz2yrsZcOsk6WP3YOLgtmhXPDuNCmS-ODRYLtyoixxmIsmq1RA1VqXrUCpyKYk7uugncm7M7vkqHPrum-DBpr4cWvz5lu9Itlap1ET0eA/s1280/Video%20Thumbnail%20(4).png",
     "archives" : [
-      {
+     {
   "date": "20/07/23",
   "getTheLookTitle": "Hi There",
   "video": "<iframe src=\"https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2FDBigginsfashion%2Fvideos%2F348821880805549%2F&show_text=false&width=267&t=0\" width=\"267\" height=\"476\" style=\"border:none;overflow:hidden\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\" allow=\"autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share\" allowFullScreen=\"true\"></iframe>",
   "productUrls": [
-    "https://dbiggins.ie/products/robell-51568-pink?_pos=4&_sid=e8d22c6f2&_ss=r&fbclid=IwAR220OZraIRCPnBfpeNxb7oTT28gg2LgWAgh4GEcBazQYiqZzLvqLlICb4Y",
-    "https://dbiggins.ie/products/robell-51576-5499?_pos=1&_sid=eb8fea789&_ss=r&variant=43707720827107&fbclid=IwAR3IvAwSawIyHlbD4AZsSudSLj7uxMMR4ELguaTbdMTBekXxLuE83dx3COk"
+    "https://dbiggins.ie/products/robell-51568-pink",
+    "https://dbiggins.ie/products/robell-51576-5499"
   ]
-},
+}
       {
         "date": "18/07/23",
         "getTheLookTitle": "Our ❤️ Picks This Week",
