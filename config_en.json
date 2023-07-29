@@ -26,6 +26,11 @@
       "height": 0.4,
       "radius": 0.0,
       "items": [
+         {
+          "category": "gid://shopify/Collection/407413981411",
+          "cateName": "New Arrivals",
+          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0yClSGLUIVRMxUTWGEOfg-24GlvsxkqSWFfvsHcl7dZKf3pApV3sE6rZIuSrvx9huYoC9S6JJGpXQFrijzxCH-344EbU1baxAwvWRuoDt0SUQL2xp2LrUgOt-f_leos7kcPs2kMNNDxNrJ2zvL2Jph4zosZbkR2xhV5js-rZzH-OAPIvQKQFH996yX1I/s940/bannerImages%20(2).png"
+        },
         {
           "category": "gid://shopify/Collection/404563853539",
           "cateName": "Summer Sale",
