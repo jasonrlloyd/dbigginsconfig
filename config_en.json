@@ -574,7 +574,24 @@
   "videoArchive": {
     "title": "Latest Videos",
     "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7Roqac2ZfxRKR2ibqOFABJkQzOiSZHEViG_3c-tZuIk1teRpVMwKAMqDJNq8lm0D1QI-IlLoO9d3FfBIYEViwDNzB0BJla1tyC2HHLge9ufaK4UoB6ZkHEwSof5x-UcZ0HK4-ANRzV5kIIhRMXatX2_6K7G1XLQYLk-oqJQbcVpu_ewB3cjrand6V1Xw/s1280/Video%20Thumbnail%20(18).png",
-    "archives" : [
+    "archives" : [{
+  "date": "08/09/23",
+  "getTheLookTitle": "Our Fav picks this week",
+  "video": "<iframe src=\"https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2FDBigginsfashion%2Fvideos%2F273040218857962%2F&show_text=false&width=267&t=0\" width=\"267\" height=\"476\" style=\"border:none;overflow:hidden\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\" allow=\"autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share\" allowFullScreen=\"true\"></iframe>",
+  "productUrls": [
+    "https://dbiggins.ie/products/pinns-436-t-denim",
+    "https://dbiggins.ie/search",
+    "https://dbiggins.ie/products/street-one-320450",
+    "https://dbiggins.ie/products/street-one-572209-lilac",
+    "https://dbiggins.ie/products/street-one-320368",
+    "https://dbiggins.ie/products/cecil-317588-new",
+    "https://dbiggins.ie/products/kate-and-pippa-new-zip-top-2",
+    "https://dbiggins.ie/products/kate-and-pippa-new-zip-top-4",
+    "https://dbiggins.ie/products/kate-and-pippa-new-zip-top-4",
+    "https://dbiggins.ie/products/kate-and-pippa-new-zip-top-4",
+    ""
+  ]
+},
       {
   "date": "30/08/23",
   "getTheLookTitle": "Our ❤️ Picks This Week",
