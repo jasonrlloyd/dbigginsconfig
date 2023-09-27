@@ -602,7 +602,19 @@
   "date": "19/08/23",
   "getTheLookTitle": "Our Fav picks this week",
   "video": "<iframe src=\"https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2FDBigginsfashion%2Fvideos%2F935840530962613%2F&show_text=false&width=267&t=0\" width=\"267\" height=\"476\" style=\"border:none;overflow:hidden\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\" allow=\"autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share\" allowFullScreen=\"true\"></iframe>",
+  "productUrls": [{
+  "date": "20/09/23",
+  "getTheLookTitle": "Our Fav picks this week",
+  "video": "<iframe src=\"https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2FDBigginsfashion%2Fvideos%2F2625623660933512%2F&show_text=false&width=267&t=0\" width=\"267\" height=\"476\" style=\"border:none;overflow:hidden\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\" allow=\"autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share\" allowFullScreen=\"true\"></iframe>",
   "productUrls": [
+    "https://www.dbiggins.ie/products/lady-glory-wedge-boot",
+    "https://www.dbiggins.ie/products/lady-glory-wedge-boot",
+    "https://www.dbiggins.ie/products/sunday-6853",
+    "https://www.dbiggins.ie/products/sunday-6851",
+    "https://www.dbiggins.ie/products/sunday-6862",
+    ""
+  ]
+},
     "https://www.dbiggins.ie/products/normann-9223-937",
     "https://www.dbiggins.ie/products/fransden-756-448",
     "https://www.dbiggins.ie/products/fransden-735-279",
