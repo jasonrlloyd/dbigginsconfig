@@ -586,7 +586,20 @@
   "date": "12/09/23",
   "getTheLookTitle": "Our Fav picks this week",
   "video": "<iframe src=\"https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2FDBigginsfashion%2Fvideos%2F1719949928483319%2F&show_text=false&width=267&t=0\" width=\"267\" height=\"476\" style=\"border:none;overflow:hidden\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\" allow=\"autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share\" allowFullScreen=\"true\"></iframe>",
+  "productUrls": [{
+  "date": "13/09/23",
+  "getTheLookTitle": "Our Fav picks this week",
+  "video": "<iframe src=\"https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2FDBigginsfashion%2Fvideos%2F1567427640457996%2F&show_text=false&width=267&t=0\" width=\"267\" height=\"476\" style=\"border:none;overflow:hidden\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\" allow=\"autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share\" allowFullScreen=\"true\"></iframe>",
   "productUrls": [
+    "<iframe src=\"https://www.facebook.com/plugins/video.php",
+    "https://www.dbiggins.ie/products/no2morrow-anna-layering-shirt",
+    "https://www.dbiggins.ie/products/no2morrow-anna-layering-shirt",
+    "https://www.dbiggins.ie/products/no2morrow-anna-layering-shirt",
+    "https://www.dbiggins.ie/products/kate-and-pippa-emilia-frill-knit",
+    "https://www.dbiggins.ie/products/street-one-201805",
+    ""
+  ]
+},
     "https://www.dbiggins.ie/products/cecil-376831",
     "https://www.dbiggins.ie/products/street-one-344152",
     "https://www.dbiggins.ie/products/street-one-344209",
