@@ -513,72 +513,220 @@
       }
     ]
   },
-  "colorDots":  {
+  "colorDots": {
     "items": [
-      {"string": "Blue", "hex": "4169e1"},
-      {"string": "Black", "hex": "000000"},
-      {"string": "Cream", "hex": "FFFDD0"},
-      {"string": "Green", "hex": "6D9900"},
-      {"string": "Navy", "hex": "000080"},
-      {"string": "Peach", "hex": "FFE5B4"},
-      {"string": "Orange", "hex": "FFA500"},
-      {"string": "Pink", "hex": "F62F5C"},
-      {"string": "Tan", "hex": "D2B48C"},
-      {"string": "White", "hex": "FFFFFF"},
-      {"string": "Putty", "hex": "CDAE70"},
-      {"string": "Charcoal", "hex": "36454F"},
-      {"string": "Mint Green", "hex": "3EB489"},
-      {"string": "Grey", "hex": "808080"},
-      {"string": "Khaki", "hex": "414842"},
-      {"string": "Stone", "hex": "888c8d"},
-      {"string": "Denim", "hex": "6F8FAF"},
-      {"string": "Coral", "hex": "FF7F50"},
-      {"string": "Silver", "hex": "808080"},
-      {"string": "Beige", "hex": "F5F5DC"},
-      {"string": "Blush", "hex": "FE828C"},
-      {"string": "Cerise Pink", "hex": "DE3163"},
-      {"string": "Gold", "hex": "FFD700"},
-      {"string": "Teal", "hex": "008080"},
-      {"string": "Lime", "hex": "32CD32"},
-      {"string": "Lemon", "hex": "FAFA33"},
-      {"string": "Rose Gold", "hex": "b76e79"},
-      {"string": "Rose", "hex": "FF007F"},
-      {"string": "Dark Denim", "hex": "00334F"},
-      {"string": "Royal Blue", "hex": "4169e1"},
-      {"string": "Magenta", "hex": "FF00FF"},
-      {"string": "Raspberry", "hex": "e30b5d"},
-      {"string": "Fuchsia Pink", "hex": "FF00FF"},
-      {"string": "Lilac", "hex": "C8A2C8"},
-      {"string": "Camel", "hex": "C19A6B"},
-      {"string": "Latte", "hex": "bdab98"},
-      {"string": "Wine", "hex": "722F37"},
-      {"string": "Sand", "hex": "C2B280"},
-      {"string": "Hot Pink", "hex": "FF69B4"},
-      {"string": "Baby Pink", "hex": "F4C2C2"},
-      {"string": "Baby Blue", "hex": "89CFF0"},
-      {"string": "French Navy", "hex": "0072bb"},
-      {"string": "Red", "hex": "FF0000"},
-      {"string": "Sherry", "hex": "ce9195"},
-      {"string": "Champagne", "hex": "F7E7CE"},
-      {"string": "Brown", "hex": "964B00"},
-      {"string": "Pewter", "hex": "E9EAEC"},
-      {"string": "Cornflower Blue", "hex": "6495ED"}
+      {
+        "string": "Blue",
+        "hex": "4169e1"
+      },
+      {
+        "string": "Black",
+        "hex": "000000"
+      },
+      {
+        "string": "Cream",
+        "hex": "FFFDD0"
+      },
+      {
+        "string": "Green",
+        "hex": "6D9900"
+      },
+      {
+        "string": "Navy",
+        "hex": "000080"
+      },
+      {
+        "string": "Peach",
+        "hex": "FFE5B4"
+      },
+      {
+        "string": "Orange",
+        "hex": "FFA500"
+      },
+      {
+        "string": "Pink",
+        "hex": "F62F5C"
+      },
+      {
+        "string": "Tan",
+        "hex": "D2B48C"
+      },
+      {
+        "string": "White",
+        "hex": "FFFFFF"
+      },
+      {
+        "string": "Putty",
+        "hex": "CDAE70"
+      },
+      {
+        "string": "Charcoal",
+        "hex": "36454F"
+      },
+      {
+        "string": "Mint Green",
+        "hex": "3EB489"
+      },
+      {
+        "string": "Grey",
+        "hex": "808080"
+      },
+      {
+        "string": "Khaki",
+        "hex": "414842"
+      },
+      {
+        "string": "Stone",
+        "hex": "888c8d"
+      },
+      {
+        "string": "Denim",
+        "hex": "6F8FAF"
+      },
+      {
+        "string": "Coral",
+        "hex": "FF7F50"
+      },
+      {
+        "string": "Silver",
+        "hex": "808080"
+      },
+      {
+        "string": "Beige",
+        "hex": "F5F5DC"
+      },
+      {
+        "string": "Blush",
+        "hex": "FE828C"
+      },
+      {
+        "string": "Cerise Pink",
+        "hex": "DE3163"
+      },
+      {
+        "string": "Gold",
+        "hex": "FFD700"
+      },
+      {
+        "string": "Teal",
+        "hex": "008080"
+      },
+      {
+        "string": "Lime",
+        "hex": "32CD32"
+      },
+      {
+        "string": "Lemon",
+        "hex": "FAFA33"
+      },
+      {
+        "string": "Rose Gold",
+        "hex": "b76e79"
+      },
+      {
+        "string": "Rose",
+        "hex": "FF007F"
+      },
+      {
+        "string": "Dark Denim",
+        "hex": "00334F"
+      },
+      {
+        "string": "Royal Blue",
+        "hex": "4169e1"
+      },
+      {
+        "string": "Magenta",
+        "hex": "FF00FF"
+      },
+      {
+        "string": "Raspberry",
+        "hex": "e30b5d"
+      },
+      {
+        "string": "Fuchsia Pink",
+        "hex": "FF00FF"
+      },
+      {
+        "string": "Lilac",
+        "hex": "C8A2C8"
+      },
+      {
+        "string": "Camel",
+        "hex": "C19A6B"
+      },
+      {
+        "string": "Latte",
+        "hex": "bdab98"
+      },
+      {
+        "string": "Wine",
+        "hex": "722F37"
+      },
+      {
+        "string": "Sand",
+        "hex": "C2B280"
+      },
+      {
+        "string": "Hot Pink",
+        "hex": "FF69B4"
+      },
+      {
+        "string": "Baby Pink",
+        "hex": "F4C2C2"
+      },
+      {
+        "string": "Baby Blue",
+        "hex": "89CFF0"
+      },
+      {
+        "string": "French Navy",
+        "hex": "0072bb"
+      },
+      {
+        "string": "Red",
+        "hex": "FF0000"
+      },
+      {
+        "string": "Sherry",
+        "hex": "ce9195"
+      },
+      {
+        "string": "Champagne",
+        "hex": "F7E7CE"
+      },
+      {
+        "string": "Brown",
+        "hex": "964B00"
+      },
+      {
+        "string": "Pewter",
+        "hex": "E9EAEC"
+      },
+      {
+        "string": "Cornflower Blue",
+        "hex": "6495ED"
+      }
     ]
   },
-  "archives" : [
-    {
-      "date": "13/04/24",
-      "getTheLookTitle": "Our ❤️ Picks This Week",
-      "video": "<iframe src=\"https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2FDBigginsfashion%2Fvideos%2F1381659332498442%2F&show_text=false&width=219&t=0\" width=\"219\" height=\"476\" style=\"border:none;overflow:hidden\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\" allow=\"autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share\" allowFullScreen=\"true\"></iframe>",
-      "productUrls": [
-        "https://www.dbiggins.ie/products/street-one-377303-pink",
-        "https://www.dbiggins.ie/products/street-one-321327",
-        "https://www.dbiggins.ie/products/street-one-143953",
-        "https://www.dbiggins.ie/products/street-one-377303",
-        "https://www.dbiggins.ie/products/street-one-321329",
-        "https://www.dbiggins.ie/products/street-one-377580",
-        "https://www.dbiggins.ie/products/cecil-212154"
-      ]
-    }
-  ]
+  "videoArchive": {
+    "title": "Latest Videos",
+    "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0GYGMRy3ApvoGWlNHkMwpVBdGaeXz4dqt2W7hHdEjR0_JFsK6jUgYX3YAGyccqO0lnP9Qh7NPPDxC6c91fiBz2yrsZcOsk6WP3YOLgtmhXPDuNCmS-ODRYLtyoixxmIsmq1RA1VqXrUCpyKYk7uugncm7M7vkqHPrum-DBpr4cWvz5lu9Itlap1ET0eA/s1280/Video%20Thumbnail%20(4).png",
+    "archives": [
+      {
+        "date": "13/04/24",
+        "getTheLookTitle": "Our ❤️ Picks This Week",
+        "video": "<iframe src=\"https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2FDBigginsfashion%2Fvideos%2F1381659332498442%2F&show_text=false&width=219&t=0\" width=\"219\" height=\"476\" style=\"border:none;overflow:hidden\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\" allow=\"autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share\" allowFullScreen=\"true\"></iframe>",
+        "productUrls": [
+          "https://www.dbiggins.ie/products/street-one-377303-pink",
+          "https://www.dbiggins.ie/products/street-one-321327",
+          "https://www.dbiggins.ie/products/street-one-143953",
+          "https://www.dbiggins.ie/products/street-one-377303",
+          "https://www.dbiggins.ie/products/street-one-321329",
+          "https://www.dbiggins.ie/products/street-one-377580",
+          "https://www.dbiggins.ie/products/cecil-212154"
+        ]
+      }
+    ]
+  }
 }
