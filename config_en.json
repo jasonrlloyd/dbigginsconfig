@@ -47,13 +47,13 @@
       "layout": "getTheLook",
       "title": "Featured This Week",
       "productUrls": [
-  "https://www.dbiggins.ie/products/street-one-377303-pink",
-    "https://www.dbiggins.ie/products/street-one-321327",
-    "https://www.dbiggins.ie/products/street-one-143953",
-    "https://www.dbiggins.ie/products/street-one-377303",
-    "https://www.dbiggins.ie/products/street-one-321329",
-    "https://www.dbiggins.ie/products/street-one-377580",
-    "https://www.dbiggins.ie/products/cecil-212154"
+        "https://www.dbiggins.ie/products/street-one-377303-pink",
+        "https://www.dbiggins.ie/products/street-one-321327",
+        "https://www.dbiggins.ie/products/street-one-143953",
+        "https://www.dbiggins.ie/products/street-one-377303",
+        "https://www.dbiggins.ie/products/street-one-321329",
+        "https://www.dbiggins.ie/products/street-one-377580",
+        "https://www.dbiggins.ie/products/cecil-212154"
       ]
     },
     {
@@ -565,21 +565,20 @@
       {"string": "Cornflower Blue", "hex": "6495ED"}
     ]
   },
- "archives" : [
-      {
-        "date": "13/04/24",
-        "getTheLookTitle": "Our ❤️ Picks This Week",
-        "video": "<iframe src=\"https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2FDBigginsfashion%2Fvideos%2F1381659332498442%2F&show_text=false&width=219&t=0\" width=\"219\" height=\"476\" style=\"border:none;overflow:hidden\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\" allow=\"autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share\" allowFullScreen=\"true\"></iframe>",
-        "productUrls": [
-          "https://www.dbiggins.ie/products/street-one-377303-pink",
-          "https://www.dbiggins.ie/products/street-one-321327",
-          "https://www.dbiggins.ie/products/street-one-143953",
-          "https://www.dbiggins.ie/products/street-one-377303",
-          "https://www.dbiggins.ie/products/street-one-321329",
-          "https://www.dbiggins.ie/products/street-one-377580",
-          "https://www.dbiggins.ie/products/cecil-212154"
-        ]
-      }
-    ]
-  }
+  "archives" : [
+    {
+      "date": "13/04/24",
+      "getTheLookTitle": "Our ❤️ Picks This Week",
+      "video": "<iframe src=\"https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2FDBigginsfashion%2Fvideos%2F1381659332498442%2F&show_text=false&width=219&t=0\" width=\"219\" height=\"476\" style=\"border:none;overflow:hidden\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\" allow=\"autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share\" allowFullScreen=\"true\"></iframe>",
+      "productUrls": [
+        "https://www.dbiggins.ie/products/street-one-377303-pink",
+        "https://www.dbiggins.ie/products/street-one-321327",
+        "https://www.dbiggins.ie/products/street-one-143953",
+        "https://www.dbiggins.ie/products/street-one-377303",
+        "https://www.dbiggins.ie/products/street-one-321329",
+        "https://www.dbiggins.ie/products/street-one-377580",
+        "https://www.dbiggins.ie/products/cecil-212154"
+      ]
+    }
+  ]
 }
