@@ -27,14 +27,14 @@
       "radius": 0.0,
       "items": [
         {
-          "category": "gid://shopify/Collection/263838564509",
-          "cateName": "Dresses",
-          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUny9VOZ-aUBiJoIxdJM7Tv6PtLHv2GkLgjv5ZvY2HUv2zYJbYB4FC2Z8Ya-nG_BWjMqOkW_Q7ITfSGvuFF-Sw_MBLxf2AzUJ1YmvVtZcIPGrt-YMoygHy7qSyG4yP3Lt4MzJ3X-W-tpQ192xNtA2l2BCOFy_Ds7DsZ27bsFNWFnicbde26izMgHkKhHQ/s940/18.png"
-        },
-        {
           "category": "gid://shopify/Collection/608928432454",
           "cateName": "Naya",
           "image": "https://www.dbiggins.ie/cdn/shop/files/NAYA_1728x.png?v=1715271457"
+        },
+         {
+          "category": "gid://shopify/Collection/263838564509",
+          "cateName": "Dresses",
+          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUny9VOZ-aUBiJoIxdJM7Tv6PtLHv2GkLgjv5ZvY2HUv2zYJbYB4FC2Z8Ya-nG_BWjMqOkW_Q7ITfSGvuFF-Sw_MBLxf2AzUJ1YmvVtZcIPGrt-YMoygHy7qSyG4yP3Lt4MzJ3X-W-tpQ192xNtA2l2BCOFy_Ds7DsZ27bsFNWFnicbde26izMgHkKhHQ/s940/18.png"
         },
         {
           "category": "gid://shopify/Collection/407413981411",
