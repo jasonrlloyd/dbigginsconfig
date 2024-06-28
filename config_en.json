@@ -226,6 +226,12 @@
     "items": [
       {
         "title": "Shop By Type",
+         "individualCategories": [
+          {
+            "category": "gid://shopify/Collection/625919426886",
+            "cateName": "Fly Me To The Moon"
+          }
+         ],
         "subCategories": [
           {
             "title": "Dresses",
