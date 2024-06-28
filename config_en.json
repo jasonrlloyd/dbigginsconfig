@@ -109,6 +109,10 @@
       "isSnapping": true
     },
     {
+      "name": "Our Blog Posts",
+      "layout": "blog"
+    },
+    {
       "layout": "socials",
       "facebook": "https://www.facebook.com/DBigginsfashion",
       "instagram": "https://www.instagram.com/dbigginsfashion/"
