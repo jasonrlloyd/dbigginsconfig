@@ -26,6 +26,11 @@
       "height": 0.4,
       "radius": 0.0,
       "items": [
+         {
+          "category": "gid://shopify/Collection/407413981411",
+          "cateName": "New Arrivals",
+          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjm9jhb5yvCcqzTPc-wpMzkAmRsECprLikrnZClvoigT1KmHDLbAksfdsrNCHWZ99wi8xokFPkkXi0Vc3N_nQcZz22QxlyDuT5n36sgxm3j2-Lk3EwaZNWvxzEooYFAfdpVK0lOM_cwb4s85rcRVLhxqFXjRKlrXKJNtcB2wAsbvsDAGKnwVnEDyE4CTa8/s940/bannerImages%20(17).png"
+        }, 
         {
           "category": "gid://shopify/Collection/625919426886",
           "cateName": "Fly Me To The Moon",
@@ -36,11 +41,6 @@
           "cateName": "Naya",
           "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhywBXcqaL0rNIxChmw3n1pYlmPsqFiPeOH9R-l-udodMHSA3_NDtlca8qnPjghbczDPY86HBaYyayzyemmyaCDT5vOR8gvghZ75bSa7fQG0RVs5-llvpRZUvbPuQLBh5EOMLwqseGgSx5JnFadkphNyJ5SMk9SvzRWg-aNgnpY5b7lhyeN4KS1SkIjpyY/s940/bannerImages%20(16).png"
         },
-        {
-          "category": "gid://shopify/Collection/404563853539",
-          "cateName": "Summer Sale",
-          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhayuN6_PpsUYvDr5BBA_aEMG7LPVdv4LlNxlVMK-wPj66r_ztnFfM9ZYfWJwpgopG9i7nYQPKZ2z_CUWJJ4Ea0vL31ntR2ArFESdITta17fmRhaA14uDg2ulXREjUnKR-pR2lUQ0-rfZWVtsNrhPP1wl3OuAnx6LD_Hy3kgIhBiDM9lXYGBebJefXgNtk/s940/bannerImages%20(14).png"
-        }, 
         {
           "category": "gid://shopify/Collection/412531720419",
           "cateName": "Robell",
