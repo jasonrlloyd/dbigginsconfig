@@ -57,16 +57,13 @@
       "layout": "getTheLook",
       "title": "Featured This Week",
       "productUrls": [
-  "https://www.dbiggins.ie/products/street-one-201979",
-    "https://www.dbiggins.ie/products/normann-2234-216-55",
-    "https://www.dbiggins.ie/products/saturne-lh229-sand",
-    "https://www.dbiggins.ie/products/saturne-lh229",
-    "https://www.dbiggins.ie/products/cecil-302960",
-    "https://www.dbiggins.ie/products/cecil-322275",
-    "https://www.dbiggins.ie/products/cecil-572584",
-    "https://www.dbiggins.ie/products/cecil-345128",
-    "https://www.dbiggins.ie/products/naya-naw24329",
-    "https://www.dbiggins.ie/products/no2morrow-nantes"
+   "https://www.dbiggins.ie/products/pinns-395t-denim",
+    "https://www.dbiggins.ie/products/cecil-322089",
+    "https://www.dbiggins.ie/products/cecil-319894",
+    "https://www.dbiggins.ie/products/cecil-322075",
+    "https://www.dbiggins.ie/products/kate-and-pippa-marmi",
+    "https://www.dbiggins.ie/products/cecil-322096",
+    "https://www.dbiggins.ie/products/cecil-572541"
       ]
     },
     {
@@ -732,6 +729,59 @@
     "title": "Latest Videos",
     "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEippxWX7pX4w2TYYkWC8qqeGsj1F90wWMk2-9zV0jgXp0xv6vK6oF_iDZUMZQ48OXyiADGNzTDctV4aqkM5kztltiqXBOvA2adHKFlGqb9N8cGQSBtTSBbjNIhyPFQDKqW2KlPzhq1xhyphenhyphenVaYy_EQxieocBAdSosxwrXqdHIBwnTNao2ZYr-UXVfNRCskyw/s1280/Video%20Thumbnail%20(23).png",
     "archives": [
+      {
+  "date": "20/10/24",
+  "getTheLookTitle": "Our ❤️ Picks This Week",
+  "video": "<iframe src=\"https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2FDBigginsfashion%2Fvideos%2F1076140100853525%2F&show_text=false&width=219&t=0\" width=\"219\" height=\"476\" style=\"border:none;overflow:hidden\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\" allow=\"autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share\" allowFullScreen=\"true\"></iframe>",
+  "productUrls": [
+    "https://www.dbiggins.ie/products/pinns-395t-denim",
+    "https://www.dbiggins.ie/products/cecil-322089",
+    "https://www.dbiggins.ie/products/cecil-319894",
+    "https://www.dbiggins.ie/products/cecil-322075",
+    "https://www.dbiggins.ie/products/kate-and-pippa-marmi",
+    "https://www.dbiggins.ie/products/cecil-322096",
+    "https://www.dbiggins.ie/products/cecil-572541"
+  ]
+},
+      {
+  "date": "18/10/24",
+  "getTheLookTitle": "Our ❤️ Picks This Week",
+  "video": "<iframe src=\"https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2FDBigginsfashion%2Fvideos%2F398463286659216%2F&show_text=false&width=219&t=0\" width=\"219\" height=\"476\" style=\"border:none;overflow:hidden\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\" allow=\"autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share\" allowFullScreen=\"true\"></iframe>",
+  "productUrls": [
+    "https://www.dbiggins.ie/products/robell-51559-54026",
+    "https://www.dbiggins.ie/products/robell-51559-5499-2024",
+    "https://www.dbiggins.ie/products/robell-51420-5459",
+    "https://www.dbiggins.ie/products/ilona-zip-110",
+    "https://www.dbiggins.ie/products/ilona-zip-109"
+  ]
+},
+      {
+  "date": "17/10/24",
+  "getTheLookTitle": "Our ❤️ Picks This Week",
+  "video": "<iframe src=\"https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2FDBigginsfashion%2Fvideos%2F1544248909546199%2F&show_text=false&width=219&t=0\" width=\"219\" height=\"476\" style=\"border:none;overflow:hidden\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\" allow=\"autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share\" allowFullScreen=\"true\"></iframe>",
+  "productUrls": [
+    "https://www.dbiggins.ie/products/icona-64271",
+    "https://www.dbiggins.ie/products/icona-precious",
+    "https://www.dbiggins.ie/products/icona-61038",
+    "https://www.dbiggins.ie/products/lady-glory-wedge-boot-faux-leather",
+    "https://www.dbiggins.ie/products/icona-67297",
+    "https://www.dbiggins.ie/products/icona-61065",
+    "https://www.dbiggins.ie/products/icona-67269",
+    "https://www.dbiggins.ie/products/icona-67270"
+  ]
+},
+      {
+  "date": "16/10/24",
+  "getTheLookTitle": "Our ❤️ Picks This Week",
+  "video": "<iframe src=\"https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2FDBigginsfashion%2Fvideos%2F9327609953920961%2F&show_text=false&width=219&t=0\" width=\"219\" height=\"476\" style=\"border:none;overflow:hidden\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\" allow=\"autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share\" allowFullScreen=\"true\"></iframe>",
+  "productUrls": [
+    "https://www.dbiggins.ie/products/normann-9223",
+    "https://www.dbiggins.ie/products/normann-1730-240-26",
+    "https://www.dbiggins.ie/products/fransden-8523-400-37",
+    "https://www.dbiggins.ie/products/naya-naw24277",
+    "https://www.dbiggins.ie/products/naya-naw24101"
+  ]
+},
       {
   "date": "15/10/24",
   "getTheLookTitle": "Our ❤️ Picks This Week",
