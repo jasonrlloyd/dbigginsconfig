@@ -27,6 +27,11 @@
       "radius": 0.0,
       "items": [
          {
+          "category": "gid://shopify/Collection/661549220166",
+          "cateName": "The Today Show",
+          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikzM1jC6ZZTbKoXV2x_EnXhYzXxBce9G4knlV9tMvBl39lpkUqQKVH2KVZikuCTC4klLsjmck3is4WE8m2PABt3mT5a80n_kZslAF9d-jUVPVg3gUM54MjnsPx3MQOoNmgn8FxwUYsiMLvC9tFD9j8VQCDLMn1pS5xAz4yERa40fX51OjjeDje-1-rppc/s940/bannerImages%20(22).png"
+        },
+         {
           "category": "gid://shopify/Collection/407413981411",
           "cateName": "New Arrivals",
           "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmCO7U0ciEocRJhd0K90iXcd9MLPrrbdZugsYHONL5gT1D6warVAROL6Tw-sqBXL6KS2Xmq4SI1fbu3cGq-Y4U-K9AnxvbnkxsYVq_zf8xfoSq8Ruu6YaHPsNCXHlszdOulI9fSn7EkDdKEpK6axoYnf-uvEO2uNEqXCEbQAbCQro_6v05zBQ607PPHq4/s940/bannerImages%20(21).png"
@@ -36,11 +41,6 @@
           "cateName": "SALE",
           "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSLldvSub63LIT0GabcPiQsHLT_AJugAYw37lagSSE2Q6rm_O_zOS_2raGxKl5JMF9FfG5egXe3_6Zdfrjo3ezy_N5bUhg7cKHB2uYKF2jyiYp1Yb87_OCmujx12rL_5FyRQB3S0l9zDVREm7hxtGIsJn36x0fhTqo8s3zAIav0209w4nZfsCKYRRaoeM/s940/bannerImages%20(20).png"
         }, 
-          {
-          "category": "gid://shopify/Collection/276946124957",
-          "cateName": "Naya",
-          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhywBXcqaL0rNIxChmw3n1pYlmPsqFiPeOH9R-l-udodMHSA3_NDtlca8qnPjghbczDPY86HBaYyayzyemmyaCDT5vOR8gvghZ75bSa7fQG0RVs5-llvpRZUvbPuQLBh5EOMLwqseGgSx5JnFadkphNyJ5SMk9SvzRWg-aNgnpY5b7lhyeN4KS1SkIjpyY/s940/bannerImages%20(16).png"
-        },
         {
           "category": "gid://shopify/Collection/412531720419",
           "cateName": "Robell",
