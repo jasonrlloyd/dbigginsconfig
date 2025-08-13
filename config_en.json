@@ -47,15 +47,9 @@
       "layout": "getTheLook",
       "title": "Featured This Week",
       "productUrls": [
-          "https://www.dbiggins.ie/collections/naya/products/naya-naw25101",
-    "https://www.dbiggins.ie/collections/naya/products/naya-naw25153",
-    "https://www.dbiggins.ie/collections/naya/products/naya-naw25154",
-    "https://www.dbiggins.ie/collections/naya/products/naya-naw25262",
-    "https://www.dbiggins.ie/collections/naya/products/naya-naw25256",
-    "https://www.dbiggins.ie/collections/naya/products/naya-naw25257",
-    "https://www.dbiggins.ie/collections/naya/products/naya-naw25267",
-    "https://www.dbiggins.ie/collections/naya/products/naya-naw25104",
-    "https://www.dbiggins.ie/collections/naya/products/naya-naw25121"
+         "https://www.dbiggins.ie/collections/new-arrivals/products/d-biggins-hannah-leisure-suit",
+    "https://www.dbiggins.ie/collections/new-arrivals/products/be-sport-c3907-wine",
+    "https://www.dbiggins.ie/collections/new-arrivals/products/findlay-0966"
 
       ]
     },
@@ -722,6 +716,16 @@
     "title": "Latest Videos",
     "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEippxWX7pX4w2TYYkWC8qqeGsj1F90wWMk2-9zV0jgXp0xv6vK6oF_iDZUMZQ48OXyiADGNzTDctV4aqkM5kztltiqXBOvA2adHKFlGqb9N8cGQSBtTSBbjNIhyPFQDKqW2KlPzhq1xhyphenhyphenVaYy_EQxieocBAdSosxwrXqdHIBwnTNao2ZYr-UXVfNRCskyw/s1280/Video%20Thumbnail%20(23).png",
     "archives": [
+      {
+  "date": "08/08/25",
+  "getTheLookTitle": "Our ❤️ Picks This Week",
+  "video": "<iframe src=\"https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2FDBigginsfashion%2Fvideos%2F648854871551268%2F&show_text=false&width=219&t=0\" width=\"219\" height=\"476\" style=\"border:none;overflow:hidden\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\" allow=\"autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share\" allowFullScreen=\"true\"></iframe>",
+  "productUrls": [
+    "https://www.dbiggins.ie/collections/new-arrivals/products/d-biggins-hannah-leisure-suit",
+    "https://www.dbiggins.ie/collections/new-arrivals/products/be-sport-c3907-wine",
+    "https://www.dbiggins.ie/collections/new-arrivals/products/findlay-0966"
+  ]
+},
       {
   "date": "30/07/25",
   "getTheLookTitle": "Our ❤️ Picks This Week",
