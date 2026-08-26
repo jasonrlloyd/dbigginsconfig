@@ -27,14 +27,14 @@
       "radius": 0.0,
       "items": [
          {
-          "category": "gid://shopify/Collection/404563853539",
-          "cateName": "Sale",
-          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiW1YxdQxuA76NZKaAG63-5-MlbuM3Qq8_ymc2_G4sn2ch-tl6wOVRsb4mU9_RiZyFTWRG5k0KsF1qv_Hrn4SpHzfrKr-jT42lDE39EaPciMla1ObkgW3f4F1DpDcy6nE8HUwEwoZQIsx9pVQeOZTYKO1_la5hLtcFryJnZGNkqrpOOwUefa6gZFfixLQM/s940/bannerImages.png"
-        },
-         {
           "category": "gid://shopify/Collection/407413981411",
           "cateName": "New Arrivals",
           "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGW4bli1JYkRDAjDsMiKU6ZdPv2pbdaFqThCUtPgT2477uJ8gsUtU7nIHwUeU2KY0zM_hRjzhslk8rXEFbo5IXACuD7cnVYh3L2YXKVD50TxS1H3EKp8elBN8sBUrR553E07pGnlStdDN5iyEwsWD_B_t16uVWr7V1HmdGNRuRw7Gy_3cqW_SrcXHmeeg/s940/bannerImages.png"
+        },
+         {
+          "category": "gid://shopify/Collection/404563853539",
+          "cateName": "Sale",
+          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiW1YxdQxuA76NZKaAG63-5-MlbuM3Qq8_ymc2_G4sn2ch-tl6wOVRsb4mU9_RiZyFTWRG5k0KsF1qv_Hrn4SpHzfrKr-jT42lDE39EaPciMla1ObkgW3f4F1DpDcy6nE8HUwEwoZQIsx9pVQeOZTYKO1_la5hLtcFryJnZGNkqrpOOwUefa6gZFfixLQM/s940/bannerImages.png"
         }
       ]
     },
