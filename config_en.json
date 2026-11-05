@@ -39,26 +39,6 @@
       ]
     },
     {
-      "layout": "getTheLook",
-      "title": "Featured This Week",
-      "productUrls": [
-       "https://www.dbiggins.ie/products/cecil-381579",
-    "https://www.dbiggins.ie/products/byoung-20819497",
-    "https://www.dbiggins.ie/products/no2morrow-fenty",
-    "https://www.dbiggins.ie/products/no2morrow-anna",
-    "https://www.dbiggins.ie/products/byoung-20816978-green",
-    "https://www.dbiggins.ie/products/byoung-20819114",
-    "https://www.dbiggins.ie/products/byoung-20819498"
-      ]
-    },
-    {
-      "layout": "spacer",
-      "height": 20
-    },
-    {
-      "layout": "getTheLookVideoThumbnail"
-    },
-    {
       "name": "Recent View",
       "layout": "recentView"
     },
